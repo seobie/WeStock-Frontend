@@ -32,4 +32,4 @@
 - 상품 리스트 페이지
 - 사용자 개인 페이지
 
-### [StockX 2주 프로젝트 후기](https://velog.io/@seob/StockX-2%EC%A3%BC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9B%84%EA%B8%B0)
+### [StockX 2주 프로젝트 결과물&후기](https://velog.io/@seob/StockX-2%EC%A3%BC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9B%84%EA%B8%B0)
